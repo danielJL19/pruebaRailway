@@ -1,0 +1,10 @@
+<div>
+  <h1 class="font-bold text-4xl">Admin#index</h1>
+  <p>Find me in app/views/admin/index.html.erb</p>
+  <%= current_user.admin %>
+
+  <h2>LISTA DE USUARIOS</h2>
+  <% @users.each do |user|  %>
+    <p> <%= user.name %> </p>
+  <% end %>
+</div>
