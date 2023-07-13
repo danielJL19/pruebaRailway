@@ -15,7 +15,7 @@ Para levantar este proyecto blog, debes seguir las siguientes instrucciones:
 <h3>Instalación</h3>
 
 ```bash
-git clone 
+git clone https://github.com/danielJL19/pruebaRailway.git
 ```
 
 Things you may want to cover:
