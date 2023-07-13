@@ -12,6 +12,12 @@ Sitio web sobre un vlog con temas variados
 # Empezando
 Para levantar este proyecto blog, debes seguir las siguientes instrucciones:  
 
+<h3>Instalación</h3>
+
+```bash
+git clone 
+```
+
 Things you may want to cover:
 
 * Ruby version
