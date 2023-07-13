@@ -8,10 +8,9 @@ Sitio web sobre un vlog con temas variados
 # Visuales 
 [![Captura-de-pantalla-2023-07-13-165911.png](https://i.postimg.cc/tJKSvBCn/Captura-de-pantalla-2023-07-13-165911.png)](https://postimg.cc/m1SytN9T)
 [![2.png](https://i.postimg.cc/mr10j1Sn/2.png)](https://postimg.cc/Z9Z7KR2P) [![3.png](https://i.postimg.cc/xdgtK0wZ/3.png)](https://postimg.cc/PLpWHkrb) 
-# Others
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Empezando
+Para levantar este proyecto blog, debes seguir las siguientes instrucciones:  
 
 Things you may want to cover:
 
