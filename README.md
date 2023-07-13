@@ -1,4 +1,11 @@
-# README
+# Un Poco de todo
+
+Un vlog hecho en Ruby on Rails 7
+
+# Descripción 
+Sitio web sobre un vlog con temas variados 
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
