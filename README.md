@@ -6,7 +6,7 @@ Un vlog hecho en Ruby on Rails 7
 Sitio web sobre un vlog con temas variados 
 
 # Visuales 
-
+[![Captura-de-pantalla-2023-07-13-165911.png](https://i.postimg.cc/tJKSvBCn/Captura-de-pantalla-2023-07-13-165911.png)](https://postimg.cc/m1SytN9T)
 # Others
 
 This README would normally document whatever steps are necessary to get the
